@@ -15,7 +15,7 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 <h3>📚 Skills</h3>
 
 <p align="left"> <a <a href="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" target="_blank" rel="noreferrer">
-    <img src="https://your-hosting-service.com/C_Icon.svg" alt="C" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/>
 </a>
 <br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
