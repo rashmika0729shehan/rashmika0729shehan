@@ -6,7 +6,7 @@ I'm an undergraduate student at the **Faculty of Technology, University of Sri J
 
 ---
 
-🏛️ University of Sri Jayewardenepura, Sri Lanka
-🎓 Bachelor of Information and Communication Technology (Undergraduate)
+<i>🏛️ University of Sri Jayewardenepura, Sri Lanka<br>
+🎓 Bachelor of Information and Communication Technology (Undergraduate)</i>
 
 ---
