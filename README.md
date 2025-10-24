@@ -32,9 +32,11 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 
 </p>
 
-## 📊 GitHub Stats
+---
 
-<details open>
+<h3>🛠️ Git hub stats</h3>
+
+<!--<details open>-->
   <summary><b>📈 Click to see my Stats</b></summary> 
   <br />
   <p align="center">
@@ -42,5 +44,5 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
   <img src="https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia" alt="Dineth's GitHub Stats" height="237"/>   &nbsp; 
   
   </p>
-</details>
+<!--</details>-->
 
