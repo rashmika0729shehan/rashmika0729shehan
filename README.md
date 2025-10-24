@@ -35,7 +35,7 @@ I'm an first year undergraduate student at the <b>Faculty of Technology, Univers
 
 ---
 
-<h3>🛠️ Git hub stats</h3>
+<h3>📊 Git hub stats</h3>
 
 <details open>
   <summary><b>📈 Click to see my Stats</b></summary> 
