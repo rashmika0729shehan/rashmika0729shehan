@@ -15,8 +15,8 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 
 <h3>📚 Skills</h3>
 
-<center>
-<p align=""> 
+
+<p> 
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML icon" width="40" height="40"/>
 
@@ -41,4 +41,4 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java icon" width="40" height="40"/> 
 
 </p>
-</center>
+
