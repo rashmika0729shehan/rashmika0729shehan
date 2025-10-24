@@ -1,3 +1,5 @@
+<html>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there, I'm Rashmika Shehan
 
 Welcome to my GitHub profile!  
@@ -14,11 +16,12 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 
 <h3>📚 Skills</h3>
 
+
 <p align="left"> 
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML icon" width="40" height="40"/> 
 
-
+&nbsp
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS icon" width="40" height="40"/> 
 
@@ -38,3 +41,5 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java icon" width="40" height="40"/> 
  
 </p>
+
+</html>
