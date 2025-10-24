@@ -14,7 +14,7 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 
 <h3>📚 Skills</h3>
 
-<p align="left"> <a href="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="c" width="40" height="40"/> </a> 
 <br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <br>
