@@ -13,7 +13,7 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 
 ---
 
-<h3>📚 Skills</h3>
+<h3>🛠️ Skills</h3>
 
 
 <p align="left"> 
