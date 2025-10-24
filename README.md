@@ -13,4 +13,3 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 ---
 
 <h3>📚 Skills</h3>
-![C Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg)
