@@ -11,3 +11,5 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 🎓 <i>Bachelor of Information and Communication Technology (Undergraduate)</i>
 
 ---
+
+<h3>💻 Skills</h3>
