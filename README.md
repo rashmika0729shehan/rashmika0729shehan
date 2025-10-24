@@ -9,8 +9,8 @@ I'm an first year undergraduate student at the <b>Faculty of Technology, Univers
 ---
 
 <h3>📚 Education</h3>
-🏛️ <i>University of Sri Jayewardenepura, Sri Lanka</i><br>
-🎓 <i>Bachelor of Information and Communication Technology (Undergraduate)</i>
+🏛️ University of Sri Jayewardenepura, Sri Lanka<br>
+🎓 Bachelor of Information and Communication Technology (Undergraduate)
 
 ---
 
