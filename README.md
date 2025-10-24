@@ -1,4 +1,3 @@
-<html>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there, I'm Rashmika Shehan
 
@@ -19,27 +18,17 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
 
 <p align="left"> 
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML icon" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML icon" width="40" height="40"/>
+&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS icon" width="40" height="40"/> 
+&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP icon" width="40" height="40"/> 
+&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python icon" width="40" height="40"/> 
+&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C icon" width="40" height="40"/> 
+&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java icon" width="40" height="40"/> 
 
-&nbsp
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS icon" width="40" height="40"/> 
-
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP icon" width="40" height="40"/> 
-
-
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python icon" width="40" height="40"/> 
-
-
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C icon" width="40" height="40"/> 
-
-
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java icon" width="40" height="40"/> 
- 
 </p>
 
-</html>
