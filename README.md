@@ -4,7 +4,7 @@
 Welcome to my GitHub profile!  
 
 <h3>👨‍💻 About me</h3>
-I'm an undergraduate student at the <b>Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka</b>. I’m passionate about technology, programming, and learning new skills to build creative software solutions.
+I'm an first year undergraduate student at the <b>Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka</b>. I’m passionate about technology, programming, and learning new skills to build creative software solutions.
 
 ---
 
