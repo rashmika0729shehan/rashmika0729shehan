@@ -40,11 +40,6 @@ I'm an undergraduate student at the <b>Faculty of Technology, University of Sri 
   <p align="center">
    
   <img src="https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia" alt="Dineth's GitHub Stats" height="237"/>   &nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika0729shehan&langs_count=6&layout=compact&theme=algolia" height="237"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@rashmika0729shehan&langs_count=6&theme=algolia&layout=compact" height="200"/>
-    
- 
-
   
   </p>
 </details>
