@@ -14,7 +14,7 @@ I am a first-year undergraduate student pursuing a **Bachelor of Information and
 ## 🎓 Education
 
 **University of Sri Jayewardenepura, Sri Lanka**  
-Bachelor of Information and Communication Technology *(Undergraduate)*  
+Bachelor of Information and Communication Technology (Undergraduate)  
 Faculty of Technology
 
 
