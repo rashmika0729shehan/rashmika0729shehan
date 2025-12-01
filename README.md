@@ -33,13 +33,16 @@ Faculty of Technology
 </p>
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
+<details>
+  <summary><h2>📊 GitHub Statistics</h2></summary>
   
+  <div align="center">
+    
   ![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia&hide_border=true)
+    
+  </div>
   
-</div>
+</details>
 
 
 ## 🌐 Connect With Me
