@@ -52,7 +52,11 @@ I'm an first year undergraduate student at the <b>Faculty of Technology, Univers
 
 <h3>🌐 Connect with me</h3>
 <p align="left">
-<a href="https://fb.com/rashmika.shehan.29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmika.shehan.29" height="30" width="40" /></a>
-<a href="https://instagram.com/rashmikashehan0729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashmikashehan0729" height="30" width="40" /></a>
+<a href="https://fb.com/rashmika.shehan.29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmika.shehan.29" height="30" width="40" /></a>
+<a href="https://instagram.com/rashmikashehan0729" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashmikashehan0729" height="30" width="40" /></a>
+<a href="https://rashmikashehan.vercel.app/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="portfolio" height="30" width="40" /></a>
 </p>
+
+
+
 
