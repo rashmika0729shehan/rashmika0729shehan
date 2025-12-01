@@ -61,6 +61,32 @@ Faculty of Technology
 
 ---
 
+<<<<<<< HEAD
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rashmika0729shehan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+=======
+<h3>📊 Git hub stats</h3>
+
+<details open>
+  <summary><b>📈 Click to see my Stats</b></summary> 
+  <p align="center">
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia" alt="Rashmika's GitHub Stats" height="237"/>   &nbsp; 
+  
+  </p>
+</details>
+
+---
+
+<h3>🌐 Connect with me</h3>
+<p align="left">
+<a href="https://fb.com/rashmika.shehan.29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmika.shehan.29" height="30" width="40" /></a>
+<a href="https://instagram.com/rashmikashehan0729" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashmikashehan0729" height="30" width="40" /></a>
+<a href="https://rashmikashehan.vercel.app/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="portfolio" height="30" width="40" /></a>
+</p>
+
+
+
+
+>>>>>>> 516a9b1191f81a56e1ddcbdb56c690fca803f5e6
