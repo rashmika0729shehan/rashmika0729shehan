@@ -33,9 +33,11 @@ Faculty of Technology
 </p>
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
+<details open>
+  <summary><b>📈 Click to see my Stats</b></summary> 
+  <p align="center">
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia" alt="Rashmika's GitHub Stats" height="237"/>   &nbsp; 
   
   ![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia&hide_border=true)
   
