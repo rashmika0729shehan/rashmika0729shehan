@@ -43,7 +43,7 @@ I'm an first year undergraduate student at the <b>Faculty of Technology, Univers
   <summary><b>📈 Click to see my Stats</b></summary> 
   <p align="center">
    
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia" alt="Rashmika's Git hub" height="237"/>   &nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia" alt="Rashmika's Git hub Stats" height="237"/>   &nbsp; 
 
   </p>
 </details>
