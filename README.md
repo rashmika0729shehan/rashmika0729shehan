@@ -57,7 +57,3 @@ Faculty of Technology
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashmika0729shehan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
