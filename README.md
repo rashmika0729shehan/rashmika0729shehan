@@ -14,7 +14,7 @@ I am a first-year undergraduate student pursuing a **Bachelor of Information and
 ## 🎓 Education
 
 **University of Sri Jayewardenepura, Sri Lanka**  
-Bachelor of Information and Communication Technology *(Undergraduate)*  
+Bachelor of Information and Communication Technology (Undergraduate)
 Faculty of Technology
 
 
@@ -57,7 +57,3 @@ Faculty of Technology
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashmika0729shehan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
