@@ -36,8 +36,6 @@ Faculty of Technology
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia&hide_border=true)
 
   ![](https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical&hide_border=false)<br/>
