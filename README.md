@@ -38,6 +38,10 @@ Faculty of Technology
 <div align="center">
   
   ![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&show_icons=true&count_private=true&theme=algolia&hide_border=true)
+
+  ![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmika0729shehan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika0729shehan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
