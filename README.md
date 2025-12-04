@@ -58,4 +58,6 @@ Faculty of Technology
   </a>
 </p>
 
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 ---
