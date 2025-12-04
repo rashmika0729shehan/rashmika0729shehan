@@ -29,12 +29,11 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
   <br>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="50" height="50" title="HTML5"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="50" height="50" title="CSS3"/>&nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" title="CSS3"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" title="PHP"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50" title="MySQL"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" title="Python"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50" title="C Programming"/>&nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" title="Java"/>&nbsp &nbsp <br><br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" title="Java"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="50" height="50" title="Git"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" title="GitHub"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50" title="Vercel"/>&nbsp &nbsp
