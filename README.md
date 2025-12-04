@@ -8,14 +8,17 @@
 
 ## 👨‍💻 About Me
 
+<div align="justify">
+
 I am a first-year undergraduate student pursuing a **Bachelor of Information and Communication Technology** at the **Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka**. I am passionate about technology, software development, and continuously expanding my skill set to build innovative and creative software solutions.
+
+</div>
 
 
 ## 🎓 Education
 
-**University of Sri Jayewardenepura, Sri Lanka**  
 Bachelor of Information and Communication Technology (Undergraduate)  
-Faculty of Technology
+Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**  
 
 
 ## 🛠️ Technical Skills
