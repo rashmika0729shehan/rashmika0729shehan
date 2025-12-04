@@ -26,7 +26,6 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
 ### Programming Languages & Technologies
 
 <p align="center">
-
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="50" height="50" title="HTML5"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="50" height="50" title="CSS3"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" title="CSS3"/>&nbsp &nbsp
