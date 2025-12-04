@@ -37,10 +37,6 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="50" height="50" title="Git"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" title="GitHub"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50" title="Vercel"/>&nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50" title="PyCharm"/>&nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="Intellij" width="50" height="50" title="Intellij"/>&nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VScode" width="50" height="50" title="VScode"/>&nbsp &nbsp
- 
 </p>
 
 
