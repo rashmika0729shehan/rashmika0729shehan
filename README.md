@@ -43,23 +43,19 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
 ## 📊 GitHub Statistics
 
 <div align="center">
-
   <table>
     <tr>
       <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical" />
       </td>
       <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical&hide_border=true" alt="GitHub Streak"/><br/>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>
-  
-
-  
-  
 </div>
 
+---
 
 ## 🌐 Connect With Me
 
