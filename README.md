@@ -48,7 +48,7 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical&hide_border=true"/>
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashmika0729shehan&theme=radical&utcOffset=8" alt="GitHub Productive Time Card" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-peach.vercel.app?user=rashmika0729shehan&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
       </td>
     <tr>
     <tr>
@@ -58,8 +58,6 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
     </tr>
   </table>
 </div>
-
-
 
 ## 🌐 Connect With Me
 
