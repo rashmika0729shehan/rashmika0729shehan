@@ -42,17 +42,17 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
+  <table border="1px">
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical&hide_border=true" style="border:1px solid white;border-radius:5px;"/>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical&hide_border=true"/>
       </td>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashmika0729shehan&theme=radical&utcOffset=8" alt="GitHub Productive Time Card" />
       </td>
     <tr>
     <tr>
-      <td colspan="2">
+      <td align="center" colspan="2">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmika0729shehan&theme=react-dark&hide_border=true&type=dot">
       </td>
     </tr>
