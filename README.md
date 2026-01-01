@@ -77,6 +77,4 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
----
-
 
