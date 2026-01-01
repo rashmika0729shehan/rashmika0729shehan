@@ -1,7 +1,8 @@
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Rashmika Shehan</h1>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
+  </a>
   
 </div>
 
@@ -19,7 +20,6 @@ I am a first-year undergraduate student pursuing a **Bachelor of Information and
 
 Bachelor of Information and Communication Technology (Undergraduate)  
 Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**  
-
 
 ## 🛠️ Technical Skills
 
@@ -39,17 +39,21 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50" title="Vercel"/>&nbsp &nbsp
 </p>
 
-
 ## 📊 GitHub Statistics
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmika0729shehan&theme=radical&hide_border=true" style="border:1px solid white;border-radius:5px;"/>
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical&hide_border=true" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=rashmika0729shehan&theme=radical" />
+      </td>
+    <tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmika0729shehan&theme=react-dark&hide_border=true&type=dot">
       </td>
     </tr>
   </table>
@@ -74,3 +78,5 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ---
+
+
