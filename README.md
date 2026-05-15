@@ -1,7 +1,7 @@
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Rashmika Shehan</h1>
   
- <img src="https://readme-typing-svg.herokuapp.com?font=Garet&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Garet&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
   
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="justify">
 
-I am a first-year undergraduate student pursuing a **Bachelor of Information and Communication Technology** at the **Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka**. I am passionate about technology, software development, and continuously expanding my skill set to build innovative and creative software solutions.
+I am a second-year undergraduate student pursuing a **Bachelor of Information and Communication Technology** at the **Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka**. I am passionate about technology, software development, and continuously expanding my skill set to build innovative and creative software solutions.
 
 </div>
 
@@ -32,6 +32,7 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" title="Python"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50" title="C Programming"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" title="Java"/>&nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CS.svg" alt="C#" width="50" height="50" title="Java"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="50" height="50" title="Git"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" title="GitHub"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50" title="Vercel"/>&nbsp &nbsp
