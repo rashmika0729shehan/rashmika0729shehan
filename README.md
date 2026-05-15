@@ -32,6 +32,7 @@ Faculty of Technology, **University of Sri Jayewardenepura, Sri Lanka**
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" title="Python"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50" title="C Programming"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" title="Java"/>&nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CS.svg" alt="C#" width="50" height="50" title="Java"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="50" height="50" title="Git"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" title="GitHub"/>&nbsp &nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50" title="Vercel"/>&nbsp &nbsp
